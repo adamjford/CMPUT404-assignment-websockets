@@ -66,3 +66,4 @@ Sources Consulted
     * http://stackoverflow.com/a/17243070 by Paul S. (http://stackoverflow.com/users/1615483/paul-s)
     * http://stackoverflow.com/a/6823364 by Håvard (http://stackoverflow.com/users/320616/h%c3%a5vard)
 * My Assignment 4 submission: https://github.com/adamjford/CMPUT404-assignment-ajax/
+* WebSocketsExamples repository from class: https://github.com/abramhindle/WebSocketsExamples/

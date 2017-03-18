@@ -25,7 +25,7 @@ freetests.py is LICENSE'D under a BSD-like license:
 
 From ws4py
 
-Copyright (c) 2011-2014, Sylvain Hellegouarch, Abram Hindle
+Copyright (c) 2011-2017, Sylvain Hellegouarch, Abram Hindle, Adam Ford
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -57,3 +57,12 @@ Contributors
 
 * Mark Galloway
 * Abram Hindle
+* Adam Ford
+
+Sources Consulted
+=================
+
+* StackOverflow (CC-BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/legalcode)
+    * http://stackoverflow.com/a/17243070 by Paul S. (http://stackoverflow.com/users/1615483/paul-s)
+    * http://stackoverflow.com/a/6823364 by Håvard (http://stackoverflow.com/users/320616/h%c3%a5vard)
+* My Assignment 4 submission: https://github.com/adamjford/CMPUT404-assignment-ajax/
